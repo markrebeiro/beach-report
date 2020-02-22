@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3e46623cb479f60e597c85e0daee2b31",
+    "revision": "e9d4c00f923568e0773adff3d42ee01e",
     "url": "/beach-report/index.html"
   },
   {
-    "revision": "33f756302828279ae1ad",
-    "url": "/beach-report/static/css/main.80195db8.chunk.css"
+    "revision": "3763f6f8a3d24af2b835",
+    "url": "/beach-report/static/css/main.50bc39eb.chunk.css"
   },
   {
     "revision": "61abfd3d1fe346eec0a6",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/beach-report/static/js/2.8b3c9dfd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "33f756302828279ae1ad",
+    "revision": "3763f6f8a3d24af2b835",
     "url": "/beach-report/static/js/main.2a58e0af.chunk.js"
   },
   {

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/beach-report/precache-manifest.126936e15f2c9621020c762eecac12b8.js"
+  "/beach-report/precache-manifest.bfc8092c9b34c371ed37336d05809997.js"
 );
 
 self.addEventListener('message', (event) => {
