@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/beach-report/static/css/main.73d95655.chunk.css",
+    "main.css": "/beach-report/static/css/main.80195db8.chunk.css",
     "main.js": "/beach-report/static/js/main.2a58e0af.chunk.js",
     "main.js.map": "/beach-report/static/js/main.2a58e0af.chunk.js.map",
     "runtime-main.js": "/beach-report/static/js/runtime-main.87006612.js",
@@ -8,15 +8,15 @@
     "static/js/2.8b3c9dfd.chunk.js": "/beach-report/static/js/2.8b3c9dfd.chunk.js",
     "static/js/2.8b3c9dfd.chunk.js.map": "/beach-report/static/js/2.8b3c9dfd.chunk.js.map",
     "index.html": "/beach-report/index.html",
-    "precache-manifest.c0290c81e73c966f6bfa1038ca81d4b4.js": "/beach-report/precache-manifest.c0290c81e73c966f6bfa1038ca81d4b4.js",
+    "precache-manifest.126936e15f2c9621020c762eecac12b8.js": "/beach-report/precache-manifest.126936e15f2c9621020c762eecac12b8.js",
     "service-worker.js": "/beach-report/service-worker.js",
-    "static/css/main.73d95655.chunk.css.map": "/beach-report/static/css/main.73d95655.chunk.css.map",
+    "static/css/main.80195db8.chunk.css.map": "/beach-report/static/css/main.80195db8.chunk.css.map",
     "static/js/2.8b3c9dfd.chunk.js.LICENSE.txt": "/beach-report/static/js/2.8b3c9dfd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.87006612.js",
     "static/js/2.8b3c9dfd.chunk.js",
-    "static/css/main.73d95655.chunk.css",
+    "static/css/main.80195db8.chunk.css",
     "static/js/main.2a58e0af.chunk.js"
   ]
 }
